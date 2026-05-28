@@ -6,7 +6,9 @@ I'm James, a student at Brigham Young University-Idaho and I love full-stack sof
 
 ## Projects
 
-
+📍DestiGPS (Destinator)
+🐊ConjuGator
+🧑‍🍳GrandmaRecipeBox
 
 ## About Me
 
@@ -22,9 +24,7 @@ I'm James, a student at Brigham Young University-Idaho and I love full-stack sof
 - Skills: Git, Vite, Webpack, Vim, Bash, UNIX/LINUX, Powershell, AWS
 
 - Want to get better at: C++, Swift, Visual Basic and Objective C.
-- Shiny Bucket List: Ruby/RoR, Java, Kotlin, Lisp and COBOL
-
-## 
+- Shiny Bucket List: Ruby/RoR, Java, Kotlin, Lisp and COBOL (Cause why not?!)
 
 ## Let's Connect
 
