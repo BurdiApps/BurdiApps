@@ -18,7 +18,14 @@ I'm James, a student at Brigham Young University-Idaho and I love full-stack sof
 - Ask me about full-stack web development, iOS development, and GIS stuff. Also I enjoy debating/talking about EdTech and AI.
 - Very interested in: AI/ML and Embedded Systems
 
-## Technologies and Tools
+## Technologies and Tools 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 - Proficient in: Python, C#, JavaScript
 - Skills: Git, Vite, Webpack, Jest, PyTest, Bash, UNIX/LINUX, Powershell, AWS
