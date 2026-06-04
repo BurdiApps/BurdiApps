@@ -38,4 +38,4 @@ I'm James, a student at Brigham Young University-Idaho and I love full-stack sof
 - Here is my [LinkedIn]: https://www.linkedin.com/in/burdi/
 - Here is my [YouTube Channel]: https://www.youtube.com/@burdidev I post weekly!
 
-If you want to collaborat, work on an open-source project, have any suggestions or just chat, please reach out!
+If you want to collaborate, work on an open-source project, have any suggestions or just chat, please reach out!
